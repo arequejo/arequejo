@@ -1,0 +1,4 @@
+- 👋 Hey, I'm Alejandro Requejo
+- 💻 Software Engineer currently doing Frontend
+- ⚛️ All things React
+- 🧪 Passionate about testing
